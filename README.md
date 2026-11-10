@@ -1,5 +1,9 @@
 ♡ Love Heart — Multilingual Animated Heart
-
+<p align="center">
+  <img src="./love-heart.png"
+       alt="Love Heart - Python project"
+       width="500"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080812,50:321B55,100:101B35&height=180&section=header&text=Love%20Heart&fontSize=55&fontColor=C4B5FD&animation=fadeIn" width="100%"/>
 </p><p align="center">
