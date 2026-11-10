@@ -1,6 +1,6 @@
 ♡ Love Heart — Multilingual Animated Heart
 <p align="center">
-  <img src="./love-heart.png"
+  <img src="./love_heart.png"
        alt="Love Heart - Python project"
        width="500"/>
 </p>
